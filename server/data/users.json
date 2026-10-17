@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rivera",
+    "email": "student@example.com",
+    "password_hash": "$2b$10$P0kAnwj9xDpQ3AgjHalgNeYyWEfv0p7JzyXJifGXrxqz96p800heq",
+    "created_at": "2026-10-10T00:00:00.000Z",
+    "updated_at": "2026-10-10T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Bianca Chen",
+    "email": "bianca_1792257790048@university.edu",
+    "password_hash": "$2b$10$gv3xpiNkKgGsMFxGv.lJ5um8Wl7EgZ2Nj25UYLoBVeIlv0yGQDHnG",
+    "created_at": "2026-10-17T17:23:10.177Z",
+    "updated_at": "2026-10-17T17:23:10.177Z"
+  },
+  {
+    "id": 3,
+    "name": "Bianca Chen",
+    "email": "bianca_1792258053202@university.edu",
+    "password_hash": "$2b$10$RmWMK/J2qlsj/i.5glHjUuuFHOo/QraPtB6K.uVss74iODOkbcbG6",
+    "created_at": "2026-10-17T17:27:33.314Z",
+    "updated_at": "2026-10-17T17:27:33.314Z"
+  },
+  {
+    "id": 4,
+    "name": "Bianca Chen",
+    "email": "bianca_1792258220221@university.edu",
+    "password_hash": "$2b$10$M5qRFPxKX7DfMST0r/Wn6eZpCyXqZLzIiEr3H9BDpMEEbB4ImfAKq",
+    "created_at": "2026-10-17T17:30:20.318Z",
+    "updated_at": "2026-10-17T17:30:20.318Z"
+  },
+  {
+    "id": 5,
+    "name": "MounikaBandi",
+    "email": "student@university.edu",
+    "password_hash": "$2b$10$xTlWYucIYqNfijazUDFkf.xJrJfuDoRO6Jas/WWu43x0l019xsj9i",
+    "created_at": "2026-10-17T17:32:21.676Z",
+    "updated_at": "2026-10-17T17:32:21.676Z"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "student-task-manager",
+  "version": "1.0.0",
+  "description": "Student Task Manager with React, Node.js Express, and PostgreSQL",
+  "scripts": {
+    "server": "npm.cmd run dev --prefix server",
+    "client": "npm.cmd run dev --prefix client",
+    "db:setup": "npm.cmd run db:setup --prefix server"
+  },
+  "keywords": [
+    "student",
+    "task-manager",
+    "react",
+    "express",
+    "postgresql"
+  ],
+  "author": "",
+  "license": "ISC"
+}
